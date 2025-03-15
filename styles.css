@@ -1,0 +1,119 @@
+header {
+
+    text-align: center;
+    padding: 10px;
+    padding-bottom: 15px;
+    font-size: 30pt;
+
+}
+
+.bluefont {
+    color: rgb(102, 178, 240);
+}
+
+.rubik-distressed-regular {
+    font-family: "Rubik Distressed", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 100px;
+}
+
+.yellowtail-regular {
+    font-family: "Yellowtail", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+
+}
+
+
+.header-image {
+
+    width: 1200px;
+    align: right;
+
+
+}
+
+.rounded-corners {
+    border-radius: 50px;
+}
+
+ul a:visited {
+    color: blanchedalmond;
+
+
+}
+
+
+li {}
+
+.image-textcontainer {
+    display: flex;
+
+
+
+}
+
+h2 .arsenal-sc-regular {
+    font-family: "Arsenal SC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.arsenal-sc-bold {
+    font-family: "Arsenal SC", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+
+}
+
+.arsenal-sc-regular-italic {
+    font-family: "Arsenal SC", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.arsenal-sc-bold-italic {
+    font-family: "Arsenal SC", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.left {
+    list-style-type: none;
+    font-size: 28pt;
+    padding-top: 50px;
+    padding-right: 100px;
+    justify-content: center;
+
+}
+
+.listpad {
+    padding-bottom: 50px;
+}
+
+
+.bottom {
+    padding-top: 25px;
+    list-style-type: none;
+    justify-content: space-evenly;
+    display: flex;
+}
+
+.limelight-regular {
+    font-family: "Limelight", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 28px;
+    padding-bottom: 10px;
+}
+
+div .limelight-regular {
+    font-family: "Limelight", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 28px;
+    padding-bottom: 10px;
+    text-indent: 200px;
+}
