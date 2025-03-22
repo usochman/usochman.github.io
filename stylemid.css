@@ -16,6 +16,14 @@ header {
     color: aliceblue;
 }
 
+.blackfont {
+    color: black;
+}
+
+greyfont {
+    color: lightslategrey;
+}
+
 .rubik-distressed-regular {
     font-family: "Rubik Distressed", system-ui;
     font-weight: 400;
@@ -38,9 +46,10 @@ header {
 
 .header-image {
 
-    background-image: url("../assest/escotlandarthur.jpg");
+    background-image: url("../assest/midstatue.jpg");
     height: 500px;
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
 
 }
 
@@ -136,6 +145,7 @@ h2 .arsenal-sc-regular {
     height: 100vh;
     padding-top: 20px;
     padding-bottom: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .floating-grid {
@@ -156,12 +166,13 @@ h2 .arsenal-sc-regular {
     height: 4in;
     object-fit: cover;
     transition: transform 0.5s ease;
-    transition-behavior: ;
+
     border-radius: 20px;
 }
 
 .floating-item img:hover {
     transform: scale(2.00);
+    transform-style: unset;
 
 }
 

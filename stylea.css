@@ -38,10 +38,9 @@ header {
 
 .header-image {
 
-    background-image: url("../assest/escotlandarthur.jpg");
+    background-image: url("../assest/asiahanoibay.jpg");
     height: 500px;
     background-size: cover;
-
 }
 
 .rounded-corners {
@@ -156,7 +155,7 @@ h2 .arsenal-sc-regular {
     height: 4in;
     object-fit: cover;
     transition: transform 0.5s ease;
-    transition-behavior: ;
+
     border-radius: 20px;
 }
 
